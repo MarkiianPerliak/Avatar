@@ -1,0 +1,215 @@
+body {
+    background-size: 100%;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+.header {
+    background-image: url(./images/Rectangle\ 1.png);
+    background-repeat: no-repeat;
+
+    
+
+}
+
+.header-info {
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+    margin-left: 165px;
+}
+
+.header-button {
+height: 80px;
+width: 260px;
+border-radius: [object Object]px;border-radius: [object Object]px;
+background: #0B0E66;
+border: 3px solid #26C7EA;
+border-radius: 45px 0px;
+font-family: 'HeadlandOne';
+font-size: 24px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: center;
+color: #26C7EA;
+margin-left: 164px;
+}
+
+.headline-text {
+    font-family: 'Inter';
+font-size: 36px;
+font-weight: 400;
+line-height: 44px;
+letter-spacing: 0em;
+text-align: 'justified';
+color: #0A3853;
+margin-left: 318px;
+
+
+}
+
+.headline-text1 {
+    font-family: 'Inter';
+font-size: 36px;
+font-weight: 400;
+line-height: 44px;
+letter-spacing: 0em;
+text-align: 'justified';
+color: #0A3853;
+margin-left: 179px;
+}
+
+.author {
+    font-family: 'Inter';
+font-size: 24px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: 'justified';
+margin-left: 619px;
+}
+
+.headline-rectangle {
+    margin-left: 480px;
+    border-radius: 0px;
+}
+
+.trailer {
+    background-image: url(./images/Rectangle\ 10.png);
+background-repeat: no-repeat;
+
+}
+
+.trailer-button {
+    height: 80px;
+width: 260px;
+border-radius: [object Object]px;border-radius: [object Object]px;
+background: #0B0E66;
+border: 3px solid #26C7EA;
+border-radius: 45px 0px;
+font-family: 'HeadlandOne';
+font-size: 24px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: center;
+color: #26C7EA;
+margin-left: 550px;
+margin-top: 310px;
+}
+
+.headline-text2 {
+    font-family: 'Inter';
+font-size: 36px;
+font-weight: 400;
+line-height: 44px;
+letter-spacing: 0em;
+text-align: 'justified';
+color: #0A3853;
+margin-left: 251px;
+}
+
+.headline-text3 {
+    font-family: 'Inter';
+font-size: 36px;
+font-weight: 400;
+line-height: 44px;
+letter-spacing: 0em;
+text-align: 'justified';
+color: #0A3853;
+margin-left: 428px;
+}
+
+.language {
+    background-image: url(./images/Rectangle\ 20.png);
+    background-repeat: no-repeat;
+}
+.language-name {
+    font-family: 'HeadlandOne';
+font-size: 32px;
+font-weight: 400;
+line-height: 40px;
+letter-spacing: 0em;
+text-align: 'justified';
+margin-left: 539px;
+
+}
+
+.language-item {
+    /* display: inline-block; */
+}
+
+.language-article {
+height: 240px;
+width: 320px;
+margin-left: 165px;
+border-radius: 0px;
+background: #FFFFFFB2;
+
+}
+
+.language-article1 {
+    height: 240px;
+    width: 320px;
+margin-left: 520px;
+border-radius: 0px;
+background: #FFFFFFB2;
+
+}
+
+.language-article2 {
+    height: 240px;
+    width: 320px;
+margin-left: 877px;
+border-radius: 0px;
+background: #FFFFFFB2;
+
+}
+
+.headline-text4 {
+    font-family: 'Inter';
+font-size: 36px;
+font-weight: 400;
+line-height: 44px;
+letter-spacing: 0em;
+text-align: 'justified';
+margin-left: 211px;
+color: #0A3853;
+}
+
+.headline-text5 {
+    font-family: 'Inter';
+font-size: 36px;
+font-weight: 400;
+line-height: 44px;
+letter-spacing: 0em;
+text-align: 'justified';
+margin-left: 274px;
+color: #0A3853;
+}
+
+.author1 {
+    font-family: 'Inter';
+font-size: 24px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: 'justified';
+margin-left: 633px;
+}
